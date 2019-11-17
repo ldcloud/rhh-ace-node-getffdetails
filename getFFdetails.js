@@ -16,22 +16,22 @@ http.createServer((request, response) => {
 var freqFlyerData = {
     "frequentFlyers": [
         {
-        "firstName":"John",
-        "lastName":"Stephens",
+        "firstName":"Andre",
+        "lastName":"McGuire",
         "frequentFlyerNo": "1343767",
         "frequentFlyerLevel": "Gold",
         "preferredLanguage": "pt-PT",
-        "mobileNumber": "0452100890",
-        "emailAddress": "j.stephens@example.com",
+        "mobileNumber": "0450100890",
+        "emailAddress": "a.mcguire@leonardo.com.au",
         "contactPreference": "Email"
         },
-        { "firstName":"Paul",
-        "lastName":"Oscar",
+        { "firstName":"Phil",
+        "lastName":"Ogilvie",
             "frequentFlyerNo": "1928765",
             "frequentFlyerLevel": "Silver",
-            "preferredLanguage": "fr",
-            "mobileNumber": "0414000219",
-            "emailAddress": "p.oscar@example.com",
+            "preferredLanguage": "de",
+            "mobileNumber": "0404000219",
+            "emailAddress": "p.ogilvie@leonardo.com.au",
             "contactPreference": "SMS"
         },
         { "firstName":"Alice",
